@@ -1,0 +1,8 @@
+{
+    "todos": [
+      { "id": 1, "title": "Learn Node.js", "status": false },
+      { "id": 2, "title": "Buy groceries", "status": true },
+      { "id": 3, "title": "Workout", "status": false }
+    ]
+  }
+  
